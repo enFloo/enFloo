@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋🏿, I'm Florian Houenou</h1>
 <h3 align="center">An impassioned Full-Stack Engineer based in Chicago</h3>
-<p align="right"><img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="coding" height="300" /></p>
+<img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="coding" height="300" />
   
 
 
 
+- 🔭 I’m currently working on [Pathology](https://github.com/sspenst/pathology)
 
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Node.js, Web Development**
+
+- 📫 How to reach me **Houenou.Florian@gmail.com**
+
+- ⚡ Fun fact **I speak french**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/programmerflo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmerflo" height="30" width="40" /></a>
