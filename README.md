@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋🏿, I'm Florian Houenou</h1>
-<h3 align="center">An impassioned Full-Stack Engineer based in Chicago</h3>
+<h3 align="center">An impassioned Full-Stack Developer based in Chicago</h3>
 <img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="coding" height="300" />
   
 
