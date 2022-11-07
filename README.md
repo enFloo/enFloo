@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏿, I'm Florian Houenou</h1>
 <h3 align="center">An impassioned Full-Stack Engineer based in Chicago</h3>
-<img align= “right” alt= “coding” width=“200px” src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<img align=“right” alt=“coding” width=“100” src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on [Pathology](https://github.com/sspenst/pathology)
 
