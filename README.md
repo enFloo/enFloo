@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [FightIQ](https://github.com/enFloo/fightIQ)
+- 🔭 I’m currently working on [FightIQ](https://fight-iq.vercel.app/)
 
 - 🌱 I’m working on growing user traffic and updating features on **FightIQ**
 
