@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [Pathology](https://github.com/sspenst/pathology)
+- 🔭 I’m currently working on [FightIQ](https://github.com/enFloo/fightIQ)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m working on growing user traffic and updating features on **FightIQ**
 
 - 💬 Ask me about **Node.js, Web Development**
 
